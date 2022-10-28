@@ -1,0 +1,15 @@
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\projerct1.csproj.AssemblyReference.cache
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\projerct1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\projerct1.AssemblyInfoInputs.cache
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\projerct1.AssemblyInfo.cs
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\projerct1.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\Desktop\project1\projerct1\bin\Debug\net6.0\projerct1.exe
+C:\Users\ERIK\Desktop\project1\projerct1\bin\Debug\net6.0\projerct1.deps.json
+C:\Users\ERIK\Desktop\project1\projerct1\bin\Debug\net6.0\projerct1.runtimeconfig.json
+C:\Users\ERIK\Desktop\project1\projerct1\bin\Debug\net6.0\projerct1.dll
+C:\Users\ERIK\Desktop\project1\projerct1\bin\Debug\net6.0\projerct1.pdb
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\projerct1.dll
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\refint\projerct1.dll
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\projerct1.pdb
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\projerct1.genruntimeconfig.cache
+C:\Users\ERIK\Desktop\project1\projerct1\obj\Debug\net6.0\ref\projerct1.dll
